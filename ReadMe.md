@@ -2,7 +2,7 @@
 🌱 I'm currently learning Java, C and C#
 
 ## Spotify Playing 🎧:  
-[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=nj5pl7m5q9ag4dz3ppjd5xldc&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)]]  
+[![Spotify Playing 🎧](https://spotify-github-profile.vercel.app/api/view?uid=nj5pl7m5q9ag4dz3ppjd5xldc&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)  
 
 
 ## 🌐 Socials:
