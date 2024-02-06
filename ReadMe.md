@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm currently learning C#
+Hi, I'm Erhan Polat. I'm a high school student. The programming languages I master are C#, .NET, Java, JavaScript, HTML, CSS, React and Python.
 
 ## 🎧 Spotify Playing:  
 [![🎧 Spotify Playing](https://spotify-github-profile.vercel.app/api/view?uid=nj5pl7m5q9ag4dz3ppjd5xldc&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)  
