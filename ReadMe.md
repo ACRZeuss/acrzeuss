@@ -1,9 +1,5 @@
 # 💫 About Me:
-Hi, I'm Erhan Polat. I'm a high school student. The programming languages I master are C#, .NET, Java, JavaScript, HTML, CSS, React and Python.
-
-## 🎧 Spotify Playing:  
-[![🎧 Spotify Playing](https://spotify-github-profile.vercel.app/api/view?uid=nj5pl7m5q9ag4dz3ppjd5xldc&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)  
-
+Hi, I'm Erhan Polat. I'm a Full-Stack Developer. The programming languages I master are C#, .NET, Java, JavaScript, HTML, CSS, React and Python.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erhanpolatnet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erhan-polat) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/acrzeuss) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/erhanpolatnet) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@erhanpolatnet) 
