@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi, I'm Erhan Polat. I'm a Full-Stack Developer. The programming languages I master are C#, .NET, Java, JavaScript, HTML, CSS, React and Python.
+I am a solution-oriented developer with a broad command of technologies in the software development landscape. I possess a versatile (Full Stack) technical background covering both Frontend and Backend technologies.
+​While I design modern web interfaces using ReactJS, JavaScript, and CSS3, I leverage powerful languages such as NodeJS, Python, and Java for backend development. With a strong command of the C#-based .NET ecosystem and ASP.NET MVC architecture, I develop scalable and sustainable web applications that meet enterprise standards.
+​By integrating various programming paradigms into my projects, I focus on delivering modern and efficient software solutions to complex problems.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erhanpolatnet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erhan-polat) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/acrzeuss) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/erhanpolatnet) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@erhanpolatnet) 
